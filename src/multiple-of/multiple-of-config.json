@@ -1,0 +1,10 @@
+[
+  {
+    "ifYes": "G",
+    "multipleOf": 3
+  },
+  {
+    "ifYes": "N",
+    "multipleOf": 5
+  }
+]
