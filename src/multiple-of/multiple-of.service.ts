@@ -42,10 +42,7 @@ export class MultipleOfService {
         },
       );
     } catch (e) {
-      console.error(
-        '[MultipleOfService] [validateMultipleOfCheckRules] Error',
-        e,
-      );
+      console.error('[MultipleOfService] [validateMultipleOfCheckRules]', e);
       throw e;
     }
   }
